@@ -1,0 +1,1 @@
+insert into recsys_weibo(_id,user_id,crawl_time,created_at,like_num,weibo_url,comment_num,content,repost_num) values('%s','%d','%d','%s','%d','%s','%d','%s','%d');
